@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.python-version
+
+# Project Specific (Auto-generated)
+plugins/*/
+workspace/
+*.zip
+generate_samples.py
+debug_gui.py
+
+# Data/Reports
+results.csv
+summary.csv
+*.png
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+{
+  "method_name": "dummy_brightener",
+  "version": "1.0.0",
+  "author": "Easy-Enhance",
+  "entry_file": "main.py",
+  "entry_function": "run",
+  "input_type": "single_image",
+  "output_type": "single_image",
+  "supported_formats": ["png", "jpg", "jpeg"],
+  "description": "A sample plugin that slightly brightens images."
+}
