@@ -8,7 +8,6 @@ __pycache__/
 # Project Specific (Auto-generated)
 plugins/*/
 workspace/
-*.zip
 generate_samples.py
 debug_gui.py
 
